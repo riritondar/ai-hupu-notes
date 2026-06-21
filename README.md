@@ -1,2 +1,14 @@
 # ai-hupu-notes
-HTML page archive and documentation
+
+静态页面发布集合
+
+该仓库用于页面文件整理，不针对单个页面做额外说明。
+
+## 文件
+
+- 页面文件会直接写入仓库根目录
+- 仓库说明保存在 README.md
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
